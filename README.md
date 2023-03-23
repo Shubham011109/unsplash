@@ -1,38 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a project that is build on next.js framework. In this project, I have build a clone of single page application of Unsplash.
+ 
+ 
+ Here are few instructions to download this project
 
-## Getting Started
+1.Click on the desired repository 2. Navigate to <>Code' tab 3.Click on the 'Code' button on the right. A dropdown should appear 3.In the 'Clone' menu, under the 'HTTPS' tab, click on 'Download ZIP'
 
-First, run the development server:
+For installation of next.js project you can just go to https://nextjs.org/ and all the instructions are given in documentation.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+After setting up your code , you can just install related packages that are used in it.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This is a main page. In which a search bar is given for result you want to look into and some filters according to the requirement.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![unsplash](https://user-images.githubusercontent.com/92327372/227298830-4d63669e-b0cc-4a5d-90ba-a3dca987cb4e.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+In this image you can see we have type house and hit "Enter" and all the results related to house are called using an open-source API of unsplash. You can also find the API from unsplash website. You just need to sign-up and go to developers API. There you can find documentation related to this.You can also add different filters and play with this.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![unsplash1](https://user-images.githubusercontent.com/92327372/227300734-0522ab46-f208-4c3f-993d-fa1336c04dab.png)
